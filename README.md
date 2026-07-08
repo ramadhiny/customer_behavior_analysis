@@ -171,9 +171,9 @@ Open the `.pbix` file using Microsoft Power BI Desktop.
 **Ram Adhin Yadav**
 
 - LinkedIn: https://www.linkedin.com/in/ramadhin/
-- GitHub: https://github.com/ramadhiny/<img width="916" height="492" alt="Screenshot 2026-07-08 122119" src="https://github.com/user-attachments/assets/f8d7ca6a-c4e8-4f4a-853f-0286e5b419aa" />
-<img width="916" height="492" alt="Screenshot 2026-07-08 122119" src="https://github.com/user-attachments/assets/8b89d869-7f73-4ed0-beaa-58c10e74e328" />
-<img width="916" height="492" alt="Screenshot 2026-07-08 122119" src="https://github.com/user-attachments/assets/3b23bf40-1939-4476-b1f6-b82c584bb034" />
+- GitHub: https://github.com/ramadhiny/
+- <img width="916" height="492" alt="Screenshot 2026-07-08 122119" src="https://github.com/user-attachments/assets/f8d7ca6a-c4e8-4f4a-853f-0286e5b419aa" />
+
 
 
 ---
